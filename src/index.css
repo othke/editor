@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 2em;
+  font-family: sans-serif;
+}
+
+.DraftEditor-root{
+  background: #fff;
+  border-radius: .3em;
+  padding: 1em;
+}
